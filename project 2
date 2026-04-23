@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body dir ="rtl">
+<table border ="2">
+<h2><center> لغات البرمجة </center></h2>
+    <tr>
+    <th> لغة البرمجة</th>
+        <th> مميزاتها </th>
+        <th> عيوبها </th>
+        <th> تستخدم في </th>
+        <th> استخدمة في برنامج </th>
+        <th>  السبب  </th>
+    </tr>
+    <tr>
+    <td > 1.python</td>
+        <td> قرائة الكود واضحه </td>
+        <td> ليست الافضل للتطبيقات الثقيلة جدآ (الالعاب) </td>
+        <td> في الذكاء الاصطناعي + لتحليل البيانات </td>
+        <td> youtube , instagram</td>
+        <td> لانها ممتازة في السيرفرات وتحليل البيانات </td>
+    </tr>
+    <tr>
+        <td>2. java</td>
+        <td> تعمل على اي نظام </td>
+        <td> كتابة الكود طويل </td>
+        <td> برامج سطح المكتب </td>
+        <td> app (Android),minecraft  </td>
+ <td>لانها قوي ومستقر للتطبيقات الكبيرة </td>
+    </tr>
+    <tr>
+        <td>3.j_Script</td>
+        <td> تعمل مباشرة في المتصفح </td>
+        <td> احيانآ غير مستقرة بسبب التحديثات </td>
+        <td> واجهات المواقع </td>
+        <td>facebook,Google Chrome  </td>
+        <td> لانها اساس مواقع الانترنت </td>
+    </tr>
+    <tr>
+        <td>4.C++</td>
+        <td> سريعة جدآ </td>
+        <td> صعبة التعلم </td>
+        <td> انظمة التشغيل </td>
+        <td> Adobe Photoshop </td>
+        <td> لانها سريعة جدآ ومناسبة للاداء العالي </td>
+    </tr>
+    <tr>
+        <td>5. C#</td>
+        <td> ممتازة للألعاب </td>
+        <td> مرتبط غالبآ ب windows </td>
+        <td> تطبيقات Windows </td>
+        <td> call of Duty,Microsoft Windows </td>
+        <td> لانها قوية مع ماييكروسوفت والالعاب  </td>
+    </tr>
+    <tr>
+        <td> 6.php</td>
+        <td> مدعومة بشكل واسع  </td>
+        <td> تعتبر قديمة نوعآ ما +تنطيم الكود احيانا سى </td>
+        <td> مواقع الويب </td>
+        <td> Wordpress  </td>
+        <td> لانها مخصصه للمواقع  </td>
+    </tr>
+<tr>
+<td> 7.go</td>
+    <td> ممتازة للسفتوير  </td>
+    <td> مكتبة اقل من Python </td>
+    <td> السيرفرات </td>
+    <td>Docker  </td>
+    <td> لانها سريع وممتاز للسيرفرات </td>
+</tr>
+
+</table>
+
+
+
+
+</body>
+</html>
